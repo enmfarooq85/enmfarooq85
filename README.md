@@ -68,6 +68,7 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 - Twitter: https://www.x.com/enmfarooq85
 - Discord: https://www.discord.com/users/1361174333699133472
 - Monkeytype: https://www.monkeytype.com/profile/enmfarooq85
+- Youtube: https://youtube.com/@enmfarooq85
 - Portfolio: https://enmfarooq85.vercel.app
 - Email: enmuhammadfarooq@gmail.com
 
