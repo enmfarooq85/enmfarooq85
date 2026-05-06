@@ -57,18 +57,6 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 ## 🎯 Goals
 - Become a well rounded software engineer  
 - Build impactful and scalable products
-  
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Streak Stats -->
-<p align="left">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enmfarooq85&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- GitHub Graph -->
-[![Muhammad Farooq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enmfarooq85&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -85,4 +73,12 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 
 ---
 
-⭐ *Always learning, building, and growing...*
+## 📊 GitHub Stats
+
+<!-- GitHub Streak Stats -->
+<p align="left">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enmfarooq85&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- GitHub Graph -->
+[![Muhammad Farooq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enmfarooq85&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
