@@ -66,7 +66,6 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 - Codeforces: https://www.codeforces.com/profile/muhammadfarooq85
 - LinkedIn: https://linkedin.com/in/enmfarooq85
 - Twitter: https://www.x.com/enmfarooq85
-- Discord: https://www.discord.com/users/1361174333699133472
 - Monkeytype: https://www.monkeytype.com/profile/enmfarooq85
 - Youtube: https://youtube.com/@enmfarooq85
 - Portfolio: https://enmfarooq85.vercel.app
@@ -80,6 +79,9 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 <p align="left">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enmfarooq85&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- WakaTime Stats of Languages All Time -->
+<figure><embed src="https://wakatime.com/share/@enmfarooq85/5c699cba-98d6-49c9-aa50-c757deb960c1.svg"></embed></figure>
 
 <!-- GitHub Graph -->
 [![Muhammad Farooq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enmfarooq85&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
