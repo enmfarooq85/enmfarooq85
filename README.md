@@ -73,15 +73,15 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 
 ---
 
+## WakaTime Coding Stats — From May 10, 2026 Onward
+<!-- WakaTime Stats of Languages All Time -->
+![WakaTime Stats](https://wakatime.com/share/@enmfarooq85/5c699cba-98d6-49c9-aa50-c757deb960c1.svg)
+
 ## 📊 GitHub Stats
+
+Track my GitHub contributions, coding consistency, and development activity over time.
 
 <!-- GitHub Streak Stats -->
 <p align="left">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enmfarooq85&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enmfarooq85&theme=tokyonight&hide_border=true" />
 </p>
-
-<!-- WakaTime Stats of Languages All Time -->
-<figure><embed src="https://wakatime.com/share/@enmfarooq85/5c699cba-98d6-49c9-aa50-c757deb960c1.svg"></embed></figure>
-
-<!-- GitHub Graph -->
-[![Muhammad Farooq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enmfarooq85&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
