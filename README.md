@@ -74,6 +74,10 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 ---
 
 ## WakaTime Coding Stats — From May 10, 2026 Onward
+
+<!-- WakaTime Stats of Coding Activity Last 30 Days -->
+![WakaTime Stats](https://wakatime.com/share/@enmfarooq85/587863b8-35c0-4729-bb57-c3c5ab0e015b.svg)
+
 <!-- WakaTime Stats of Languages All Time -->
 ![WakaTime Stats](https://wakatime.com/share/@enmfarooq85/5c699cba-98d6-49c9-aa50-c757deb960c1.svg)
 
