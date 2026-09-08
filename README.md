@@ -40,7 +40,7 @@ Git, GitHub, Postman, Figma, Vercel, Netlify, Render, Railway
 ---
 
 ## 🧠 Problem Solving & Competitive Programming
-- Solved **320+ problems** on LeetCode  
+- Solved **415+ problems** on LeetCode  
 - Active in **DSA & Competitive Programming (Codeforces)**  
 - Strong focus on problem solving and logical thinking
 
